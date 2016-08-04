@@ -1,0 +1,38 @@
+_repo: The-Memoirs-of-Count-Grammont---Volume-06_5414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Anthony, Count
+    deathdate: 1720
+    gutenberg_agent_id: '1789'
+    url: http://www.gutenberg.org/2009/agents/1789
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Hamilton
+  editor:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2004-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Court and courtiers -- Early works to 1800'
+- !lcsh 'Gramont, Philibert, comte de, 1621-1707'
+- GITenberg
+title: The Memoirs of Count Grammont — Volume 06
+url: http://www.gutenberg.org/ebooks/5414
